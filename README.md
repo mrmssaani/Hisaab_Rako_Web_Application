@@ -29,13 +29,23 @@ JWT_SECRET=your_secret_key
 
 📸 Screenshots
 User login
-<img width="740" height="604" alt="image" src="https://github.com/user-attachments/assets/3120e6ca-be56-4c83-8328-42e91c742c5e" />
+<img width="516" height="592" alt="image" src="https://github.com/user-attachments/assets/caaeb04b-74d0-4274-bf51-57d781e15761" />
+
 
 Customers
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/3bcc0dd6-c5d2-4b03-b432-6f66f542284a" />
+<img width="811" height="502" alt="image" src="https://github.com/user-attachments/assets/8b455d13-7ee3-4c2c-bea3-f6af9748f96c" />
 
-Users details:
-<img width="1364" height="626" alt="image" src="https://github.com/user-attachments/assets/a7031455-cfea-4bbe-95fc-927b88a5318c" />
+Bussiness details:
+<img width="808" height="510" alt="image" src="https://github.com/user-attachments/assets/5f6ce359-edc6-47c7-9b93-bf9aa8bee879" />
+
+Personal Details:
+<img width="808" height="508" alt="image" src="https://github.com/user-attachments/assets/9ee7da00-9f39-45ad-847a-2b29ab59e9d6" />
+
+Urdu Veiw:
+<img width="814" height="502" alt="image" src="https://github.com/user-attachments/assets/ce4306d0-1387-4b2e-a94b-87277c93ec2d" />
+
+
+
 
 
 
